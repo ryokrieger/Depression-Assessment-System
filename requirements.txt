@@ -1,0 +1,26 @@
+# Core scientific and data libraries
+pandas
+numpy
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning and model explainability
+xgboost
+lightgbm
+imbalanced-learn
+shap
+lime
+
+# Jupyter and VS Code notebook support
+jupyter
+notebook
+jupyterlab
+ipykernel
+
+# Utilities
+joblib
+tqdm
